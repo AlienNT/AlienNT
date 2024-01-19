@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienNT&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienNT&layout=compact&langs_count=5&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

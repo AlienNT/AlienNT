@@ -46,9 +46,9 @@
 
 
 - верстка по [Figma](https://www.figma.com/) макетам;
-- создание SPA приложений на [Vue 2](https://v2.vuejs.org/) и [Vue 3](https://vuejs.org/)(Options/Composition) с использованием [Vue Router](https://router.vuejs.org/) и [Vuex](https://vuex.vuejs.org)
-- разработка REST API с использованием [Node.js](https://nodejs.org), [Express](https://expressjs.com) и [Mongoose](https://mongoosejs.com)
-- разработка реал-тайм приложений с использованием WebSocket
+- создание SPA приложений на [Vue 2](https://v2.vuejs.org/) и [Vue 3](https://vuejs.org/) **(Options/Composition)** с использованием [Vue Router](https://router.vuejs.org/) и [Vuex](https://vuex.vuejs.org)
+- разработка **REST API** с использованием [Node.js](https://nodejs.org), [Express](https://expressjs.com) и [Mongoose](https://mongoosejs.com)
+- разработка реал-тайм приложений с использованием **WebSocket**
 
 
 ---

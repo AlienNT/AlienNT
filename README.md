@@ -7,9 +7,7 @@
 
 ### Статистика
 
-[![Trysten's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienNT&layout=compact&langs_count=5&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&exclude_repo=it2_0,Tristen,works,Reports&rank_icon=github&custom_title=Статистика%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
-
-[![tsxt](https://github-readme-stats.vercel.app/api/top-langs?username=AlienNT&layout=compact&langs_count=5&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&exclude_repo=it2_0,Tristen,works,Reports&custom_title=Часто%20используемы%20языки)](https://github.com/anuraghazra/convoychat)
+[![Trysten's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlienNT&layout=compact&langs_count=5&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&exclude_repo=it2_0,Tristen,works,Reports&rank_icon=github&custom_title=Статистика%20GitHub)](https://github.com/anuraghazra/github-readme-stats)[![tsxt](https://github-readme-stats.vercel.app/api/top-langs?username=AlienNT&layout=compact&langs_count=5&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&exclude_repo=it2_0,Tristen,works,Reports&custom_title=Часто%20используемы%20языки)](https://github.com/anuraghazra/convoychat)
 
 
 ---
